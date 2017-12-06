@@ -1,0 +1,22 @@
+@media (min-width: 0) and (max-width: 767px) {
+  .logo {
+    position: absolute;
+    z-index: 10;
+    left: -22px;
+    top: -36px; }
+    .logo__svg {
+      width: 115px;
+      height: 118px; } }
+
+@media (min-width: 768px) and (max-width: 1020px) {
+  .logo {
+    top: -17px;
+    left: -55px; }
+    .logo__svg {
+      width: 287px;
+      height: 295px; } }
+
+@media (min-width: 1021px) and (max-width: 1224px) {
+  .logo__svg {
+    width: 20.5vw;
+    height: 21.3vw; } }
